@@ -1,0 +1,5 @@
+{
+    "alignment.operatorPadding": "left",
+    "dart.enableSdkFormatter": false,
+    "editor.wordWrap": "wordWrapColumn"
+}
